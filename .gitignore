@@ -1,0 +1,4 @@
+*.pyc
+*Zone.Identifier
+app/models/*
+!app/models/.gitkeep
